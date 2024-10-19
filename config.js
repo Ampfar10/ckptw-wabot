@@ -10,7 +10,7 @@ global.config = {
     bot: {
         name: "CKPTW",
         prefix: /^[°•π÷×¶∆£¢€¥®™+✓_=|/~!?@#%^&.©^]/i,
-        phoneNumber: "", // Abaikan jika Anda menggunakan kode QR untuk otentikasi
+        phoneNumber: "27673299228", // Abaikan jika Anda menggunakan kode QR untuk otentikasi
         picture: {
             thumbnail: "https://e1.pxfuel.com/desktop-wallpaper/943/672/desktop-wallpaper-whatsapp-bot-what-is-it-and-how-to-use-messenger-chatbots-chatbot.jpg",
             profile: "https://i.ibb.co/3Fh9V6p/avatar-contact.png"
